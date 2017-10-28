@@ -31,4 +31,4 @@ puts max_sub_array([-2,1,-3,4,-1,2,1,-5,4])
 
 Here, we find all of the contiguous subarrays and then picking out the one that results in the largest sum.
 
-The nested loop means that we iterate through the entire array `array.length` times for each element in the array, which takes O(n^2) time.
+The nested loop means that we iterate through the entire array `array.length` times for each element in the array, which takes O(n<sup>2</sup>) time.
