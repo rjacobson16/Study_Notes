@@ -1,4 +1,4 @@
-# Study_Notes
+# Study Notes
 Notes on Algorithms, Data Structures, Practice Problems, and more. Every day I will update this README with what I did and a link to my implementation.
 
 ## October 28-29, 2017
