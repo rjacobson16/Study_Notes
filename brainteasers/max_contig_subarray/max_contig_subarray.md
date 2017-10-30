@@ -61,4 +61,4 @@ end
 
 Here, we loop through the array only once, resulting in O(n) time complexity.
 
-Kadane's algorithm works by looping through the array and keeping track of the maximum sum, as well as the start and ending indices of the sub-array yielding that sum. At each step, we check to see if the current sum (`max_ending_here`) is greater than the maximum sum (`max_so_far`), and if so, we re-assign the maximum sum to the current sum. If the current sum (`max_ending_here`) is < 0, we know that the current sum will never contribute to our maximum sum, and we reset the current sum to 0. 
+Kadane's algorithm works by looping through the array and keeping track of the maximum sum, as well as the start and ending indices of the sub-array yielding that sum. At each step, we check to see if the current sum (`max_ending_here`) is greater than the maximum sum (`max_so_far`), and if so, we re-assign the maximum sum to the current sum. If the current sum (`max_ending_here`) is < 0, we know that the current sum will never contribute to our maximum sum, and we reset the current sum to 0.
