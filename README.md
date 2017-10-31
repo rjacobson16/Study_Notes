@@ -8,4 +8,4 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
 
 ## October 30, 2017
 
-* Watched ep 1 of Discrete Mathematics Lectures [Notes](Algoritms_and_Math/discrete_math.md)
+* Watched ep 1 of Discrete Mathematics Lectures [Notes](Algorithms_and_Math/discrete_math.md)
