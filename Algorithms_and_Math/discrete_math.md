@@ -1,4 +1,4 @@
-#Discrete Math
+# Discrete Math
 
 ## Intro to Sets
 Source [TheTrevTutor - Discrete Math 1](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
