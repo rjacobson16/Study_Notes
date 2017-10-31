@@ -7,3 +7,5 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
 [Implementation + Notes](brainteasers/max_contig_subarray)
 
 ## October 30, 2017
+
+* Watched ep 1 of Discrete Mathematics Lectures [Notes](Algoritms and Math/discrete_math.md)
