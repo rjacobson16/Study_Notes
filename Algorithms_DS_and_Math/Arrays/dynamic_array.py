@@ -31,7 +31,7 @@ class Dynamic_Array:
     def append(self, el):
 
         if self.count == self.capacity:
-            self._resize
+            self._resize()
 
         self.store[self.count] = el
 
@@ -46,7 +46,7 @@ class Dynamic_Array:
 
         new_store = [None] *self.capacity
 
-        for el in store:
-            store += el
+        for el in self.store:
+            new_store.append(el)
 
         self.store = new_store
