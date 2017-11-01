@@ -24,3 +24,7 @@ and memory address
 to objects in the array. Each reference is the same size, even if the objects vary.
 
 * `new_arr = list(arr)` makes a shallow copy of the arr. If object reference is mutable, make a deep copy
+
+## Dynamic Array
+
+* Automatically resizes when capacity reached
