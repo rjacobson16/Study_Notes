@@ -63,3 +63,13 @@ def large_cont_sum(arr):
         return f"The largest continuous subarray is {arr[start_idx:end_idx]}, which sums to {max_so_far}"
     else:
         return f"All Neg: The largest continuous subarray is {[arr[max_idx]]}, which sums to {max_element}"
+
+def sentence_rev(str):
+    arr = str.strip().split()
+
+    reversed = ''
+    for w in arr:
+        for i in range(1, len(w)+1):
+            reversed += w[-i]
+        reversed += ' '
+    return reversed.strip()
