@@ -67,9 +67,30 @@ def large_cont_sum(arr):
 def sentence_rev(str):
     arr = str.strip().split()
 
-    reversed = ''
+    reverse = ''
     for w in arr:
         for i in range(1, len(w)+1):
-            reversed += w[-i]
-        reversed += ' '
+            reverse += w[-i]
+        reverse += ' '
     return reversed.strip()
+
+def string_compression(string):
+
+    compressed = ''
+    current_char = string[0]
+    char_count = 1
+
+    compressed += current_char
+
+    for ch in string[1:]:
+        if ch == current_char:
+            char_count+=1
+            continue
+        else:
+            compressed += str(char_count)
+            current_char = ch
+            compressed += current_char
+            char_count = 1
+    compressed += str(char_count)
+
+    return compressed
