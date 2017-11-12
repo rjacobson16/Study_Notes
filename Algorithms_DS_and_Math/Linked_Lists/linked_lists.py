@@ -55,16 +55,41 @@ def reverse(head):
         prev = current
         current = next
 
+a.next = b
+b.next = c
+c.next = None
+
 reverse(a)
 
 print(c.next.value)
 print(b.next.value)
 print(a.next)
 
-a = Node('a')
-b = Node('b')
-c = Node('c')
+def kth_to_last(node, k):
+    pointer1 = node
+    pointer2 = node
+
+    for i in range(1, k):
+        if pointer2.next == None: return None
+        pointer2 = pointer2.next
+
+
+    while pointer2.next != None:
+        pointer1 = pointer1.next
+        pointer2 = pointer2.next
+
+    return pointer1.value
+
+a = Node('1')
+b = Node('2')
+c = Node('3')
+d = Node('4')
+e = Node('5')
 
 a.next = b
 b.next = c
-c.next = a
+c.next = d
+d.next = e
+e.next = None
+
+print(kth_to_last(a, 4))
