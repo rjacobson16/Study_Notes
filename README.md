@@ -45,3 +45,25 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
   * Eloquent JS ch. 3
   * Python for Algorithms, DS, and Interviews - finish Stacks & Queues
   * Python for Algorithms, DS, and Interviews - begin Linked Lists
+
+## Nov 8
+  * Javascript 30 - Day 1, drum kit
+
+## Nov 9 - 11
+
+  * Worked on a coding challenges for a Front End developer position. For the
+  first challenge, I build a UI in vanilla JavaScript which allows heads of household
+  to add members to an insurance policy. For the second challenge, I wrote a function
+  to fetch and transform data from an API endpoint
+
+## Nov 12
+
+  * Python for Algorithms, DS, and Interviews - finished Linked Lists
+  * Python for Algorithms, DS, and Interviews - begin Recursion
+  * JavaScript 30 - Day 2, CSS Clock
+
+## Nov 13
+
+  * Phone screen for Full Stack Dev role
+  * D3 tutorial series
+  * Python for Algorithms, DS, and Interviews - continue Recursion
