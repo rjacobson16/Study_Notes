@@ -26,3 +26,21 @@ def permute(s):
     return out
 
 print(permute('abcd'))
+
+
+def fibs_dynamic(n):
+    cache = {}
+    if n <= 1:
+        return 0
+
+    if n == 2:
+        return 1
+
+    if n in cache:
+        return cache[n]
+
+    cache[n] = fibs_dynamic(n-1) + fibs_dynamic(n-2)
+
+    return cache[n]
+
+print(fibs_dynamic(8))
