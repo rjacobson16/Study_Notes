@@ -66,4 +66,23 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
 
   * Phone screen for Full Stack Dev role
   * D3 tutorial series
-  * Python for Algorithms, DS, and Interviews - continue Recursion
+  * Python for Algorithms, DS, and Interviews - continued Recursion
+  * Review a/A w6d5 - React
+
+## Nov 14
+
+  * Python for Algorithms, DS, and Interviews - continued Recursion
+  * Finished D3 tutorial series
+  * Read AirBnB JS style guide
+  * CalorieBank Wireframes
+  * Finish W6D5
+
+## Nov 15
+  * Read wikipedia on coin change DP programming, review a/A make change
+    * Python for Algorithms, DS, and Interviews - finished Recursion
+
+
+## Nov 17
+
+  * Completed phone screen, coding challenge
+  * Python for Algorithms, DS, and Interviews - begin Trees
