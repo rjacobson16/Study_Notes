@@ -67,3 +67,17 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
   * Phone screen for Full Stack Dev role
   * D3 tutorial series
   * Python for Algorithms, DS, and Interviews - continue Recursion
+
+## Nov 14
+
+  * Python for Algorithms, DS, and Interviews - finished Recursion
+
+## Nov 16
+
+  * Javascript study
+  * Learn Socket.io 
+ 
+## Nov 17
+
+ * Technical Interview
+  
