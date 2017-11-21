@@ -90,3 +90,11 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
 
   * Completed phone screen, coding challenge
   * Python for Algorithms, DS, and Interviews - begin Trees
+
+## Nov 20
+
+  * Python for Algorithms, DS, and Interviews - continue Trees
+
+## Nov 21
+
+  * Python for Algorithms, DS, and Interviews - continue Trees
