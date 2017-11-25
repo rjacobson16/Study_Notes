@@ -81,6 +81,10 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
   * Read wikipedia on coin change DP programming, review a/A make change
     * Python for Algorithms, DS, and Interviews - finished Recursion
 
+## Nov 16
+
+    * Javascript study
+    * Learn Socket.io
 
 ## Nov 17
 
