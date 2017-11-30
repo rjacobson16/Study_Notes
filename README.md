@@ -8,7 +8,7 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
 
 ## October 30, 2017
 
-* Watched ep 1 of Discrete Mathematics Lectures [Notes](Algorithms_and_Math/discrete_math.md)
+* Watched ep 1 of Discrete Mathematics Lectures [Notes](Algorithms_DS_and_Math/discrete_math.md)
 
 * Reviewed Week 1 of app academy curriculum
 
@@ -98,3 +98,21 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
 ## Nov 21
 
   * Python for Algorithms, DS, and Interviews - continue Trees
+
+## Nov 29
+
+  * PluralSight: Intermediate JavaScript practice
+    * JavaScript Objects & Prototypes
+
+    Notes: 4 ways to create an object in JS:
+      1. Object Literals
+      2. Constructor Functions
+      3. Object.create
+      4. ES6 classes
+
+      * 1 & 2 just sugar for 3
+
+      Object Properties (writeable, enumerable, configurable)
+
+      * enumerable removes property from Object.keys, for loops, and JSON.stringify
+      * configurable turns off changing enumerable and configurable, but not writeable
