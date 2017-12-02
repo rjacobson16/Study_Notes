@@ -116,3 +116,24 @@ Worked on the Maximum Subarray problem. Implemented naive solution and dynamic p
 
       * enumerable removes property from Object.keys, for loops, and JSON.stringify
       * configurable turns off changing enumerable and configurable, but not writeable
+
+## Nov 30
+
+  * jQuery review
+  * work on websocket project
+
+## Dec 1
+
+  * Websocket project: add animation on landing page, fix some CSS
+
+  * PluralSight: Intermediate JavaScript practice
+    * JavaScript Objects & Prototypes
+
+    Notes:
+      * `func.prototype`: object that will be the prototype of any instance created using said function as Constructor
+      * `obj.__proto__`: prototype of object
+
+## Dec 2
+
+  * PluralSight: Intermediate JavaScript practice
+    * Practical design patterns
