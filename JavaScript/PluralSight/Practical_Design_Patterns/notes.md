@@ -12,6 +12,8 @@
 
   Ex
 
-    | Problem       | Solution       |
-    | -------------: |-------------|
-    | Service layer      | module pattern |
+| Problem       | Solution       |
+| -------------: |-------------|
+| Service layer      | module pattern |
+| Overcomplicated Object Interface     | Facade Pattern |
+| Visibility Into State Changes | Observer Pattern|
