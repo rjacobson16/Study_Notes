@@ -15,7 +15,3 @@
     | Problem       | Solution       |
     | -------------: |-------------|
     | Service layer      | module pattern |
-
-    | Tables        | Are           | Cool  |
-    | ------------- |:-------------:| -----:|
-    | col 3 is      | right-aligned | $1600 |
