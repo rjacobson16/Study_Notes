@@ -13,7 +13,7 @@ var repoFactory = function () {
             var projectRepo = require('./projectRepository')();
             return projectRepo;
         }
-    }
+    };
 };
 
 
