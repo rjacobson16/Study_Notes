@@ -93,4 +93,33 @@
 
 ## Structural Design patterns
 
-* Concerned w/ how objects are made up and simplifying relationships b/t objects
+* Concerned w/ how objects are made up and simplifying relationships b/t 
+
+### Decorator pattern 
+
+* Used to add new functionality to an existing object without being obtrusive
+
+* More complete inheritance
+* wraps an object
+* protects existing objects 
+* allows extended functionality
+
+### Facade Pattern 
+
+* Use to provide a simplified interface to a complicated system - ex. jQuery
+
+### Flyweight pattern 
+
+* Used to conserve memory by sharing portions of an object between objects
+* Only useful if you have many objects 
+
+## Behavioral design patterns 
+
+* How objects communicate, and the assignment of responsibilities
+* Assigns clear hierarchy 
+* Encapsulate requests
+
+### Observer Pattern 
+
+* Allows for loosely coupled system
+* one obj is focal point
